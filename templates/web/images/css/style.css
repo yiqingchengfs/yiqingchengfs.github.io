@@ -326,7 +326,7 @@ padding-left:38px; height:44px; line-height:42px;}
 .expmenu li .menu{ padding:0 8px 5px; overflow:hidden;}
 .expmenu li .menu li{ height:28px; line-height:28px;font-size:12px;background:url("../lt_bor.gif"/*tpa=http://ymfsbl.com/templates/web/images/lt_bor.gif*/) center bottom no-repeat;overflow: hidden;}
 .expmenu li .menu li a { color:#333; background:url("../lt_li.gif"/*tpa=http://ymfsbl.com/templates/web/images/lt_li.gif*/) left center no-repeat; padding-left:15px;}
-.prolist h4{ color:#ff6800; font-size:14px; font-weight:normal; padding:39px 0 0 25px;font-family:"微软雅黑"; }
+.prolist h4{ color:#ff6800; font-size:14px; font-weight:normal; padding:20px 0 0 0;font-family:"微软雅黑";text-align: center;}
 .prolist h4 b{ display:block; color:#ff6800; font-size:25px; margin-top:10px;}
 .prolist h4 span{ padding-left:22px;}
 
